@@ -6,7 +6,7 @@
 
 | Wokwi circuit simulation | Finished panel |
 |---|---|
-| ![Circuit simulation](assets/wokwi_simulation.jpg) | ![Finished panel](assets/panel_lit.jpg) |
+| ![Circuit simulation](assets/wokwi_simulation.jpg) | ![Finished panel](assets/panel_lit.jpeg) |
 
 ---
 
