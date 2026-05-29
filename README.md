@@ -3,11 +3,11 @@
 **A CAD-designed, 3D-printed Elite Dangerous button box with a reactive cockpit that knows what your ship is doing.**
 
 ---
-
+ 
 | Wokwi circuit simulation | Finished panel |
 |---|---|
-| ![Circuit simulation](assets/wokwi_simulation.jpg) | ![Finished panel](assets/panel_lit.jpeg) |
-
+| <img src="assets/wokwi_simulation.jpg" width="400" alt="Circuit simulation"> | <img src="assets/panel_lit.jpeg" width="400" alt="Finished panel"> |
+ 
 ---
 
 ## Origin
